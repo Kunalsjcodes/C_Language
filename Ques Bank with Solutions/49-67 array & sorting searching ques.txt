@@ -1,0 +1,41 @@
+ARRAY
+
+Que 49: WAP to input an array of 5 elements and display them. 
+
+Que 50: Input an array of 5 elements and display the greatest number of Array. 
+
+Que 51: Input an array of 5 elements and display sum of even and odd number separately. 
+
+Que 52: Enter 5 elements and count total number of even and odd number.
+
+Que 53: Enter 5 elements and count total number of positive and negative number.
+
+Que 54: Enter 5 elements and print only even numbers.
+
+Que 55: Enter 5 elements and print only positive numbers!
+
+Que 56: Enter 10 elements and print minimum number in the array
+
+Que 57: WAP to input a 2-D array of 9 elements having 3 rows and 3 columns and display them in matrix form. 
+
+Que 58: WAP to input a 2-D array of 9 (3x3) elements and display its transpose. 
+
+Que 59: WAP to input a 2-D array of 9 elements and display sum of forward diagonal elements.
+
+Que 60: WAP to input a 2-D array of 9 elements and count total even and odd numbers in the matrix. 
+
+Que 61: WAP to input a 2-D array of 9 elements and count total positive and negative numbers in the matrix
+
+Que 62: WAP to input a 2-D array of 9 elements and display maximum and minimum number of matrixes. 
+
+Que 63: create an array of characters and display your name using it!! 
+
+SORTING AND SEARCHING
+
+Que 64: WAP to input 5 element array and sort it using selection sort.
+
+Que 65: WAP to input 5 element array and sort using Bubble sort.
+
+Que 66: Input an array of 5 elements and search a specific element entered by user. 
+
+Que 67: Input an array of 5 elements and search a specific element entered by user using binary searching. 

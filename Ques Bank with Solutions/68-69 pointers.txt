@@ -1,0 +1,5 @@
+pointers
+
+Que 68: WAP to describe pointers. 
+
+Que 69: WAP to describe single pointers and double pointers. 

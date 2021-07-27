@@ -1,0 +1,23 @@
+Q1
+----
+01
+03 05
+07 09 11
+13 15 17 19
+21 23 25 27 29
+
+
+Q2.   print armstrong number b/w 1-10000.
+
+Q3.    0 1 1 2 3 5 8 13...... (Fabonacci)
+Q4.   Facatorial    
+Q5.   NANR- all +,-,*,/,% calculation
+Q6.   WANR- factorial, input amount in rupee & calculate total number of following notes: 2000,500,200,100,50,20,10,5,2,1
+      input time in seconds and calculate hours:Minutes:seconds
+Q7.   NAWR- input 2 numbers and check the greater-one.
+
+
+NANR:             void add(void)
+WANR:             void add(int,int)       :here we are taking two int as function args
+NAWR:             int add()               :here we are declaring int as fuction return type so when it is invoked every time it must return an int value.
+WAWR:             int add(int,int)        :here we are declaring function with return and with args. so it must recieve some args(as per args list) when it is being called and also return a value of its return type.

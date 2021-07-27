@@ -1,0 +1,48 @@
+BASIC MIX
+
+Que 1: WAP to check greater number between two.
+
+Que 2: WAP to input basic salary and calculate net salary according to following –
+        DA is 7% of basic salary, TA is 8% of basic salary, HRA is 12% of salary
+        If salary >= 15000 than tax will be 10% of basic salary.
+
+Que 3: WAP to check which is greater between two using if-else.
+
+Que 4: WAP to input a number and check it is even or odd.
+
+Que 5: WAP to input a character and display its vice-versa.
+
+Que 6: WAP to input age and check eligibility for voting.
+
+Que 7: WAP to check which is greater among three numbers.
+
+Que 8: WAP to calculate net amount according to purchase amount and the type of
+        clothes, conditions are following –
+        Handloom 					Mill
+        If purchase>25K than discount 			If purchase>20K than discount 25%,
+        20%, If pur>15K and <=25K than 			if pur>15K and <=20K than dis. is 12%,
+        discount 12% otherwise dis. Is 7%. 		Ohterwise no discount.
+
+Que 9: WAP to input subject name and marks and if subject is science and marks
+        are greater than 60 than grant admission otherwise not.
+
+Que 10: WAP to check either a number is positive or negative.
+
+Que 11: WAP to calculate wages according to working hours as per following rates –
+        For first 4 hours - 10RS/h.
+        For next 3 hours - 20RS/h.
+        For next 2 hours - 30RS/h.
+        For remaining hours - 45RS/h.
+
+Que 12: WAP to calculate Electricity bill according to units as per following rates-
+        For first 100 Units - 4RS/unit
+        For next 70 Units - 5RS/unit
+        For next 50 Units - 6RS/unit 
+        For remaining Units - 7RS/unit.
+
+que 13: WAP to print greeting message using switch statement.
+
+Que 14: WAP to enter a character and check it is vowel or consonant.
+
+Que 15: WAP to input two numbers and display calculation according to user choice
+        as sum, subtraction, divide, reminder, multiply.

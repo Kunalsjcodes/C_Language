@@ -1,0 +1,30 @@
+STRING
+
+Que 70: Input and display a string.( Using %s as format specifier in scanf function & Display string using a for loop.)
+
+Que 71: Input and display a string.(Input and display a string using format specifier %s in scanf and printf function.)
+
+Que 72: WAP to input a string using gets() function and display it using puts() function. 
+
+Que 73: WAP to input a string in lower case and display it in upper case. 
+
+Que 74: WAP to input a string in upper case and display it in lower case. 
+
+Que 75: WAP to input a string and count total number of characters with white space. 
+
+Que 76: WAP to input a string and count total number of vowels. 
+
+Que 77: WAP to input a string and copy it into another string. 
+
+Que 78: WAP to input a string and count total words, total space, total lines and total characters. 
+
+Que 79: WAP to copy a string to another string using strcpy() function. 
+
+Que 80: WAP to add a string with another string using strcat() function.
+
+Que 81: WAP to compare two strings using strcmp() function and display which is greater. 
+
+
+
+
+
